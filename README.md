@@ -12,12 +12,12 @@ pre requisites
 
 - Required libraries are imported as below.
 
-sounddevice==0.4.1
-transformers==4.18.3
-whisper==1.0.0
-ollama==0.3.0
-torch==1.10.0
-torchvision==0.11.2
-librosa==0.8.1
+- sounddevice==0.4.1
+- transformers==4.18.3
+- whisper==1.0.0
+- ollama==0.3.0
+- torch==1.10.0
+- torchvision==0.11.2
+- librosa==0.8.1
 
 
